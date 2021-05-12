@@ -18,7 +18,7 @@
     "express": "^4.17.1",
     "md5": "^2.2.1",
     "mongoose": "^5.9.6",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.16",
     "socket.io": "^2.3.0"
   }
 }
